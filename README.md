@@ -38,4 +38,4 @@ def circulate():
 ![output](./n.png)
 
 ## Result:
-hus a  python program to circulate the n variables using function concept is verified
+Thus a  python program to circulate the n variables using function concept is verified
