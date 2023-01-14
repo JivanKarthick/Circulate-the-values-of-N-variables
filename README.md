@@ -36,5 +36,4 @@ def circulate():
 
 ## Output:
 
-
 ## Result:
